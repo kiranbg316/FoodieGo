@@ -25,7 +25,6 @@ FoodieGo/
 │ └── script.js
 └── img/
 ├── img.jpg
-├── zomato.jpg
 └── video.mp4
 
 
